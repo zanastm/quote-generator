@@ -1,0 +1,20 @@
+body {
+  margin: 5rem;
+  padding: 0.5rem;
+  border: 2px solid #e545;
+  background-color: #ee1;
+}
+li {
+  color: purple;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+h1 {
+  color: #f54;
+}
+.hidden-content {
+  display: none;
+}
+.hidden-content.reveal-btn {
+  display: block;
+}
